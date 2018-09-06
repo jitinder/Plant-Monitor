@@ -1,2 +1,7 @@
 # Plant-Wellbeing-Monitor
-The whole source code for my Arduino assignment submission
+
+#### Contains code for:
+
+- Arduino Program | **C** 
+- Arduino Case Design | **OpenSCAD**
+- Readings Monitor/Plotter | **Processing**
